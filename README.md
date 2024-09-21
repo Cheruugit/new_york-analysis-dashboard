@@ -102,30 +102,48 @@ Following inferences can be drawn from the dashboard;
   Most of the high-risk intersections are concentrated in Manhattan, followed by Brooklyn, then the Bronx, with Queens having the fewest.
 ### [1] Overview of Pedestrian Collisions:
 Total Pedestrian Collisions: 1.41 million.
+
 Pedestrians Injured: 93.5 thousand.
+
 Pedestrians Killed: 1.01 thousand.
+
 These statistics emphasize the significant volume of pedestrian incidents in NYC, with a notable number of injuries and fatalities.
 ### [2] High-Risk Intersections:
 The table lists the top 10-20 high-risk intersections for pedestrian collisions, along with their respective boroughs and risk scores. Here are some key intersections:
 
 West Fordham Road and Major Deegan Expressway in Bronx (Risk Score: 279.32) tops the list.
+
 Other intersections include Tillary Street & Flatbush Avenue Extension (Brooklyn), and 2 Avenue & East 59 Street (Manhattan).
+
 This table provides a targeted focus on locations where city safety interventions could be prioritized.They show a high incidence of collisions, injuries, and fatalities, indicating an urgent need for infrastructure upgrades.
+
 ### [3] Borough Breakdown:
+
 Bronx has the highest collision rates (0.45M).
+
 Queens follows closely with 0.38M.
+
 Manhattan has 0.31M.
+
 Brooklyn and Staten Island have 0.21M and 0.06M respectively.
+
 The data indicates that Bronx and Queens have the highest pedestrian collision risks.
 ### [4] Leading Causes of Pedestrian Injuries:
+
 Driver Inattention: The most significant cause, accounting for the majority of pedestrian injuries (around 17-18K incidents).
+
 Failure to Yield Right-of-Way: Another major factor contributing to injuries.
+
 Backing Unsafely, Pedestrian Error/Confusion, and Unsafe Speed also feature prominently, though they are lower in number.
+
 ### [5] Leading Causes of Pedestrian Fatalities:
 Failure to Yield and Driver Inattention also contribute significantly to pedestrian fatalities.
+
 Unsafe Speed is another notable factor, particularly in contributing to fatalities.
+
 ### [6] Year-on-Year Trends:
-The graph on the bottom right shows a general decline in total collisions over time, with a sharp dip likely around 2020 (possibly influenced by the COVID-19 pandemic). After that, the trend appears to level out.
+The graph on the bottom right shows a general decline in total collisions over time, with a sharp dip likely around 2020 (possibly influenced by the COVID-19 pandemic). 
+After that, the trend appears to level out.
 
 ### [7] Hourly Collision Distribution:
 Peak Collision Hours:
