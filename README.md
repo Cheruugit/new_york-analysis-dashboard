@@ -2,8 +2,8 @@
 
 ## Important Note:
 Due to GitHub's file size limitations, the Power BI `.pbix` file exceeds the 25MB upload limit. You can download the file using the link below:
- [here](https://drive.google.com/drive/folders/1W6gPlFukCz__BONdU-at0M7mWD1oRFkU?usp=drive_link).
-### Dashboard Link :  https://app.powerbi.com/groups/me/reports/9231a540-5782-4e9a-8c5c-ff0d4caa7453/d1a55a886c19b9d67bd9?experience=power-bi
+#### [Download the Power BI File (.pbix) Here](https://drive.google.com/drive/folders/1W6gPlFukCz__BONdU-at0M7mWD1oRFkU?usp=drive_link).
+
 
 ## Problem Statement
 
